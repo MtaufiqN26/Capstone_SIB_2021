@@ -29,15 +29,15 @@ class FooterApp extends HTMLElement {
                 <a href="#"> <i class="fas fa-phone"></i> +62-8128-9922-544 </a>
                 <a href="#"> <i class="fas fa-envelope"></i> magusabdul@gmail.com </a>
                 <a href="#"> <i class="fas fa-envelope"></i> taufiqnurhidayat822@gmail.com </a>
-                <a href="#"> <i class="fas fa-map"></i> Bandung, Indonesia - 400104 </a>
+                <a href="#"> <i class="fas fa-map"></i> Jawa Barat, Indonesia </a>
             </div>
             <div class="box">
                 <h3>follow us</h3>
-                <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-                <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-                <a href="#"> <i class="fab fa-github"></i> github </a>
+                <a href="facebook.com/malikagusabdul"> <i class="fab fa-facebook-f"></i> facebook </a>
+                <a href="twitter.com/magusabdul"> <i class="fab fa-twitter"></i> twitter </a>
+                <a href="instagram.com/magusabdul"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="linkedin.com/in/agus-abdul-malik"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="https://github.com/MtaufiqN26/"> <i class="fab fa-github"></i> github </a>
             </div>
         </div>
         <div class="credit">created by <span>Team ID: CSD-106</span> | all rights reserved!</div>
