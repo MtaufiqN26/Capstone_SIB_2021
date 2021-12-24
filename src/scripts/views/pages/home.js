@@ -7,42 +7,76 @@ const Home = {
                 <div class="swiper-slide">
                     <div class="box" style="background: var(--image-color),url(img/hero-1.jpg) no-repeat;">
                         <div class="content">
-                            <span>never stop</span>
-                            <h3>exploring</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit unde ex molestias soluta consequatur saepe aliquam, excepturi delectus consequuntur minus!</p>
+                            <h3>Harta</h3>
+                            <p>Tidak Akan Berguna Jika Alam Bahkan Tidak Ada.</p>
                             <a href="#main-content" class="btn">get started</a>
                         </div>
                     </div>
                 </div>
-
                 <div class="swiper-slide">
                   <div class="box second" style="background: var(--image-color), url(img/hero-2.jpg) no-repeat;">
                       <div class="content">
-                          <span>make tour</span>
-                          <h3>amazing</h3>
-                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit unde ex molestias soluta consequatur saepe aliquam, excepturi delectus consequuntur minus!</p>
+                          <h3>Pahamilah</h3>
+                          <p> perasaan alam agar Anda tahu pentingnya alam bagi kehidupan Anda.</p>
                           <a href="#main-content" class="btn">get started</a>
                       </div>
                   </div>
               </div>
-
               <div class="swiper-slide">
                   <div class="box" style="background: var(--image-color), url(img/hero-3.jpg) no-repeat;">
                       <div class="content">
-                          <span>explore the</span>
-                          <h3>new world</h3>
-                          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit unde ex molestias soluta consequatur saepe aliquam, excepturi delectus consequuntur minus!</p>
+                          <h3>Belajarlah</h3>
+                          <p>Belajarlah mencintai alam karena itu sama halnya dengan menjaga milik Tuhan</p>
                           <a href="#main-content" class="btn">get started</a>
                       </div>
                   </div>
               </div>
           </div>
-
           <div class="swiper-button-next"></div>
           <div class="swiper-button-prev"></div>
-
       </div>
+    </section>
 
+    <section class="category" id="category">
+        <h1 class="heading">hydroponics idea!</h1>
+        <div class="box-container">
+            <div class="box">
+                <img src="img/1.-Selada.jpg" alt="Selada">
+                <h3>Selada</h3>
+                <p>Selada merupakan tanaman yang paling umum ditanam secara hidroponik, karena dapat tumbuh dengan sangat cepat dalam sistem menanam ini. Perawatannya pun tidak sulit sama sekali. Tanaman ini sangat cocok untuk pemula di bidang tanam-menanam Hidroponik.</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+            <div class="box">
+                <img src="img/2.-Tomat.jpg" alt="Tomat">
+                <h3>Tomat</h3>
+                <p>Sayuran yang satu ini masih diperdebatkan statusnya sebagai buah atau sayur. Meskipun begitu, yang jelas tomat mengandung vitamin A yang bagus untuk kesehatan kulit dan kekebalan tubuh. Sudah banyak petani komersial yang menanam tomat secara hidroponik. .</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+            <div class="box">
+                <img src="img/3.-Lobak.jpg" alt="Lobak">
+                <h3>Lobak</h3>
+                <p>Nah, beda dengan tanaman sayuran sebelumnya, lobak tidak membutuhkan lampu atau panas, melainkan suhu dingin. Bibit lobak tumbuh dalam jangka waktu sekitar 3-7 hari.</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+            <div class="box">
+                <img src="img/4.-Kale.jpg" alt="Kale">
+                <h3>Kale</h3>
+                <p>Beberapa tahun belakangan, sayuran satu ini sedang sangat populer apalagi di kalangan pegiat makanan dan gaya hidup sehat. Kandungan gizi dan manfaatnya yang melimpah menjadikan sayuran ini masuk ke dalam golongan superfood.</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+            <div class="box">
+                <img src="img/5.-Timun.jpg" alt="Timun">
+                <h3>Timun</h3>
+                <p>Timun merupakan sayuran yang memiliki banyak manfaat. Mulai dari garnish atau hiasan untuk hidangan spesial, pelengkap jus, dimakan secara mentah, sampai digunakan untuk perawatan kecantikan.</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+            <div class="box">
+                <img src="img/6.-Bayam.jpg" alt="Bayam">
+                <h3>Bayam</h3>
+                <p>Sama dengan sayur dedaunan yang sudah disebutkan sebelumnya, bayam dapat tumbuh dengan baik jika ditanam menggunakan air. Maka dari itu, tanaman ini sangat cocok jika ditanam menggunakan sistem hidroponik.</p>
+                <a href="#" class="btn">read more</a>
+            </div>
+        </div>
     </section>
 
     <section class="blogs" id="blogs">
