@@ -33,10 +33,10 @@ class FooterApp extends HTMLElement {
             </div>
             <div class="box">
                 <h3>follow us</h3>
-                <a href="facebook.com/malikagusabdul"> <i class="fab fa-facebook-f"></i> facebook </a>
-                <a href="twitter.com/magusabdul"> <i class="fab fa-twitter"></i> twitter </a>
-                <a href="instagram.com/magusabdul"> <i class="fab fa-instagram"></i> instagram </a>
-                <a href="linkedin.com/in/agus-abdul-malik"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="https://facebook.com/malikagusabdul"> <i class="fab fa-facebook-f"></i> facebook </a>
+                <a href="https://twitter.com/magusabdul"> <i class="fab fa-twitter"></i> twitter </a>
+                <a href="https://instagram.com/magusabdul"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="https://linkedin.com/in/agus-abdul-malik"> <i class="fab fa-linkedin"></i> linkedin </a>
                 <a href="https://github.com/MtaufiqN26/"> <i class="fab fa-github"></i> github </a>
             </div>
         </div>
